@@ -18,7 +18,7 @@ Este é um projeto de clone do site [Unity](https://unity.com/), desenvolvido co
 1. **Clone o Repositório**:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto.git
+   git clone https://github.com/Bruno-Brandao-Silva/unity-clone
     ```
 
 2. **Abra o Arquivo index.html**:
